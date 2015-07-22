@@ -1,4 +1,16 @@
-commit c7683fa55939c4481157b10228471f39e8f356dc (HEAD, origin/master, origin/HEAD, master)
+commit b9c9992bfca5f60ef75d40d9dfcb122c90bd1b9e (HEAD, origin/master, origin/HEAD, master)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Wed Jul 22 11:29:50 2015 -0430
+
+    * se agregan paquetes
+
+commit d95ca7877ed31211a1258c106b9cb35ffece8589
+Author: jose perez <sinfallas@gmail.com>
+Date:   Wed Jul 22 10:36:25 2015 -0430
+
+    * changelog
+
+commit c7683fa55939c4481157b10228471f39e8f356dc
 Author: jose perez <sinfallas@gmail.com>
 Date:   Wed Jul 22 10:36:06 2015 -0430
 
